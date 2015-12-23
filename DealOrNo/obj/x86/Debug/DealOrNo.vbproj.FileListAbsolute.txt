@@ -1,0 +1,68 @@
+C:\Users\Terrance Fletcher Jr\AppData\Local\Temporary Projects\DealOrNo\bin\Debug\DealOrNo.exe
+C:\Users\Terrance Fletcher Jr\AppData\Local\Temporary Projects\DealOrNo\bin\Debug\DealOrNo.pdb
+C:\Users\Terrance Fletcher Jr\AppData\Local\Temporary Projects\DealOrNo\bin\Debug\DealOrNo.xml
+C:\Users\Terrance Fletcher Jr\AppData\Local\Temporary Projects\DealOrNo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Terrance Fletcher Jr\AppData\Local\Temporary Projects\DealOrNo\obj\x86\Debug\DealOrNo.frmMain.resources
+C:\Users\Terrance Fletcher Jr\AppData\Local\Temporary Projects\DealOrNo\obj\x86\Debug\DealOrNo.Resources.resources
+C:\Users\Terrance Fletcher Jr\AppData\Local\Temporary Projects\DealOrNo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Terrance Fletcher Jr\AppData\Local\Temporary Projects\DealOrNo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Terrance Fletcher Jr\AppData\Local\Temporary Projects\DealOrNo\obj\x86\Debug\DealOrNo.exe
+C:\Users\Terrance Fletcher Jr\AppData\Local\Temporary Projects\DealOrNo\obj\x86\Debug\DealOrNo.xml
+C:\Users\Terrance Fletcher Jr\AppData\Local\Temporary Projects\DealOrNo\obj\x86\Debug\DealOrNo.pdb
+C:\Users\Terrance Fletcher Jr\Desktop\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.exe
+C:\Users\Terrance Fletcher Jr\Desktop\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.xml
+C:\Users\Terrance Fletcher Jr\Desktop\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.pdb
+C:\Users\Terrance Fletcher Jr\Desktop\DealOrNo\DealOrNo\bin\Debug\DealOrNo.exe
+C:\Users\Terrance Fletcher Jr\Desktop\DealOrNo\DealOrNo\bin\Debug\DealOrNo.pdb
+C:\Users\Terrance Fletcher Jr\Desktop\DealOrNo\DealOrNo\bin\Debug\DealOrNo.xml
+C:\Users\Terrance Fletcher Jr\Desktop\DealOrNo\DealOrNo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Terrance Fletcher Jr\Desktop\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.frmMain.resources
+C:\Users\Terrance Fletcher Jr\Desktop\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.Resources.resources
+C:\Users\Terrance Fletcher Jr\Desktop\DealOrNo\DealOrNo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Terrance Fletcher Jr\Desktop\DealOrNo\DealOrNo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.exe
+E:\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.xml
+E:\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.pdb
+E:\DealOrNo\DealOrNo\bin\Debug\DealOrNo.exe
+E:\DealOrNo\DealOrNo\bin\Debug\DealOrNo.pdb
+E:\DealOrNo\DealOrNo\bin\Debug\DealOrNo.xml
+E:\DealOrNo\DealOrNo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.frmMain.resources
+E:\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.Resources.resources
+E:\DealOrNo\DealOrNo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DealOrNo\DealOrNo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.exe
+F:\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.xml
+F:\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.pdb
+F:\DealOrNo\DealOrNo\bin\Debug\DealOrNo.exe
+F:\DealOrNo\DealOrNo\bin\Debug\DealOrNo.pdb
+F:\DealOrNo\DealOrNo\bin\Debug\DealOrNo.xml
+F:\DealOrNo\DealOrNo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.frmMain.resources
+F:\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.Resources.resources
+F:\DealOrNo\DealOrNo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DealOrNo\DealOrNo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.frmLogin.resources
+F:\DealOrNo\DealOrNo\bin\Debug\DealOrNo.exe.manifest
+F:\DealOrNo\DealOrNo\bin\Debug\DealOrNo.application
+F:\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.exe.manifest
+F:\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.application
+C:\Users\Terrance Fletcher Jr\Desktop\DealOrNo\DealOrNo\bin\Debug\DealOrNo.exe.manifest
+C:\Users\Terrance Fletcher Jr\Desktop\DealOrNo\DealOrNo\bin\Debug\DealOrNo.application
+C:\Users\Terrance Fletcher Jr\Desktop\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.frmLogin.resources
+C:\Users\Terrance Fletcher Jr\Desktop\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.exe.manifest
+C:\Users\Terrance Fletcher Jr\Desktop\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.application
+C:\Users\Terrance Fletcher Jr\Documents\2012 Spring\!Advanced\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.exe
+C:\Users\Terrance Fletcher Jr\Documents\2012 Spring\!Advanced\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.xml
+C:\Users\Terrance Fletcher Jr\Documents\2012 Spring\!Advanced\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.pdb
+C:\Users\Terrance Fletcher Jr\Documents\2012 Spring\!Advanced\DealOrNo\DealOrNo\bin\Debug\DealOrNo.exe.manifest
+C:\Users\Terrance Fletcher Jr\Documents\2012 Spring\!Advanced\DealOrNo\DealOrNo\bin\Debug\DealOrNo.application
+C:\Users\Terrance Fletcher Jr\Documents\2012 Spring\!Advanced\DealOrNo\DealOrNo\bin\Debug\DealOrNo.exe
+C:\Users\Terrance Fletcher Jr\Documents\2012 Spring\!Advanced\DealOrNo\DealOrNo\bin\Debug\DealOrNo.pdb
+C:\Users\Terrance Fletcher Jr\Documents\2012 Spring\!Advanced\DealOrNo\DealOrNo\bin\Debug\DealOrNo.xml
+C:\Users\Terrance Fletcher Jr\Documents\2012 Spring\!Advanced\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.frmLogin.resources
+C:\Users\Terrance Fletcher Jr\Documents\2012 Spring\!Advanced\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.frmMain.resources
+C:\Users\Terrance Fletcher Jr\Documents\2012 Spring\!Advanced\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.Resources.resources
+C:\Users\Terrance Fletcher Jr\Documents\2012 Spring\!Advanced\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.vbproj.GenerateResource.Cache
+C:\Users\Terrance Fletcher Jr\Documents\2012 Spring\!Advanced\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.exe.manifest
+C:\Users\Terrance Fletcher Jr\Documents\2012 Spring\!Advanced\DealOrNo\DealOrNo\obj\x86\Debug\DealOrNo.application
